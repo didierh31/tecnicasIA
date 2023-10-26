@@ -1,0 +1,93 @@
+﻿[
+    {
+        "TIPO DE VEHÍCULO": "AUTOMÓVIL",
+        "VEHÍCULOS INVOLUCRADOS": "555",
+        "SINIESTROS": "358",
+        "LESIONADOS": "180",
+        "FALLECIDOS EN SITIO": "22"
+    },
+    {
+        "TIPO DE VEHÍCULO": "BICICLETA",
+        "VEHÍCULOS INVOLUCRADOS": "27",
+        "SINIESTROS": "15",
+        "LESIONADOS": "13",
+        "FALLECIDOS EN SITIO": "2"
+    },
+    {
+        "TIPO DE VEHÍCULO": "BUS",
+        "VEHÍCULOS INVOLUCRADOS": "195",
+        "SINIESTROS": "104",
+        "LESIONADOS": "119",
+        "FALLECIDOS EN SITIO": "21"
+    },
+    {
+        "TIPO DE VEHÍCULO": "CAMIÓN",
+        "VEHÍCULOS INVOLUCRADOS": "297",
+        "SINIESTROS": "161",
+        "LESIONADOS": "127",
+        "FALLECIDOS EN SITIO": "30"
+    },
+    {
+        "TIPO DE VEHÍCULO": "CAMIONETA",
+        "VEHÍCULOS INVOLUCRADOS": "318",
+        "SINIESTROS": "174",
+        "LESIONADOS": "171",
+        "FALLECIDOS EN SITIO": "17"
+    },
+    {
+        "TIPO DE VEHÍCULO": "EMERGENCIAS",
+        "VEHÍCULOS INVOLUCRADOS": "0",
+        "SINIESTROS": "0",
+        "LESIONADOS": "0",
+        "FALLECIDOS EN SITIO": "0"
+    },
+    {
+        "TIPO DE VEHÍCULO": "ESPECIAL (3)",
+        "VEHÍCULOS INVOLUCRADOS": "7",
+        "SINIESTROS": "5",
+        "LESIONADOS": "4",
+        "FALLECIDOS EN SITIO": "2"
+    },
+    {
+        "TIPO DE VEHÍCULO": "FURGONETA",
+        "VEHÍCULOS INVOLUCRADOS": "42",
+        "SINIESTROS": "22",
+        "LESIONADOS": "19",
+        "FALLECIDOS EN SITIO": "0"
+    },
+    {
+        "TIPO DE VEHÍCULO": "MOTOCICLETA",
+        "VEHÍCULOS INVOLUCRADOS": "885",
+        "SINIESTROS": "538",
+        "LESIONADOS": "641",
+        "FALLECIDOS EN SITIO": "68"
+    },
+    {
+        "TIPO DE VEHÍCULO": "NO IDENTIFICADO (4)",
+        "VEHÍCULOS INVOLUCRADOS": "342",
+        "SINIESTROS": "316",
+        "LESIONADOS": "295",
+        "FALLECIDOS EN SITIO": "37"
+    },
+    {
+        "TIPO DE VEHÍCULO": "SCOOTER ELÉCTRICO",
+        "VEHÍCULOS INVOLUCRADOS": "10",
+        "SINIESTROS": "5",
+        "LESIONADOS": "4",
+        "FALLECIDOS EN SITIO": "1"
+    },
+    {
+        "TIPO DE VEHÍCULO": "TRICIMOTO",
+        "VEHÍCULOS INVOLUCRADOS": "5",
+        "SINIESTROS": "3",
+        "LESIONADOS": "2",
+        "FALLECIDOS EN SITIO": "1"
+    },
+    {
+        "TIPO DE VEHÍCULO": "VEHÍCULO DEPORTIVO UTILITARIO",
+        "VEHÍCULOS INVOLUCRADOS": "124",
+        "SINIESTROS": "72",
+        "LESIONADOS": "56",
+        "FALLECIDOS EN SITIO": "5"
+    }
+]
